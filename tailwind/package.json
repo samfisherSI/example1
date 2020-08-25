@@ -1,0 +1,16 @@
+{
+  "name": "Documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build tailwind/src/style.css -o tailwind/dist/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-facebook-login": "^4.1.1",
+    "tailwindcss": "^1.7.3"
+  }
+}
